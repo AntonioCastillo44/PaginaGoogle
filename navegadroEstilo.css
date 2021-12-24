@@ -1,0 +1,44 @@
+*{ 
+    font-family: sans-serif;
+    width: 0px auto;
+    margin: 0px auto;
+   
+  }
+
+  body{
+    height: 450px;
+    background-image: url("http://3.bp.blogspot.com/-NEWyfQDWhv0/T9zlPlbE2iI/AAAAAAAAIBc/y2c0-9vLXLw/s1600/Lady_blanco_%2B(1).jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+
+
+#primerBuscador {
+    margin: 20px;
+    height: 130px;
+}
+
+#logo {
+
+font-size: 100px;
+text-align: center;
+height: 130px;
+
+
+}
+#segundoBuscador {
+
+    text-align: center;
+
+}
+
+table{
+    width: 50%;
+
+}
+#accesos {
+  
+    margin: 40px; 
+
+}
